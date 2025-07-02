@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m <span style="color:#f9826c">Deccatron</span></h1>
 
 <p align="center">
-  Security Enthusiast • 🧠 Reverse Engineering • 🇬🇧 UK-Based<br>
+  Security Enthusiast • Reverse Engineer • UK-Based<br>
   Welcome to my GitHub profile — where ideas get executed (sometimes literally).
 </p>
 
