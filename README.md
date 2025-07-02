@@ -2,7 +2,7 @@
 
 <p align="center">
   Security Enthusiast • Reverse Engineer • UK-Based<br>
-  Welcome to my GitHub profile — i usually make open source game hacking utilities.
+  Welcome to my GitHub profile — i make a ton of open source stuff :).
 </p>
 
 ---
