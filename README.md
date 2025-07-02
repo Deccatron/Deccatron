@@ -1,11 +1,17 @@
-## 👋 Hi, I’m Deccatron
+<h1 align="center">👋 Hi, I’m <span style="color:#f9826c">Deccatron</span></h1>
 
-Welcome to my GitHub!
+<p align="center">
+  🔐 Cybersecurity Enthusiast • 🧠 Reverse Engineering • 🇬🇧 UK-Based<br>
+  Welcome to my GitHub profile — where ideas get executed (sometimes literally).
+</p>
 
 ---
 
-![Deccatron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deccatron&show_icons=true&theme=radical&count_private=true)
+## 🚀 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deccatron&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deccatron&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deccatron&layout=compact&theme=radical" alt="Top Languages" width="49%">
+</p>
 
 ---
