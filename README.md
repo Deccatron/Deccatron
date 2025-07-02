@@ -2,7 +2,7 @@
 
 <p align="center">
   Security Enthusiast • Reverse Engineer • UK-Based<br>
-  Welcome to my GitHub profile — where ideas get executed (sometimes literally ifykyk).
+  Welcome to my GitHub profile — i usually make open source game hacking utilities.
 </p>
 
 ---
