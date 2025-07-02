@@ -2,7 +2,7 @@
 
 <p align="center">
   Security Enthusiast • Reverse Engineer • UK-Based<br>
-  Welcome to my GitHub profile — where ideas get executed (sometimes literally).
+  Welcome to my GitHub profile — where ideas get executed (sometimes literally ifykyk).
 </p>
 
 ---
